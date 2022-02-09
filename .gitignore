@@ -130,3 +130,6 @@ dmypy.json
 
 # DS_store
 .DS_Store
+
+# 参考书
+参考书/
